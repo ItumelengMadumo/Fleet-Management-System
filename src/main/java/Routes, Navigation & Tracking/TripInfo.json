@@ -1,0 +1,22 @@
+
+{"TripInfo":
+    [
+        {"TripID":"Id",
+        "TripName":"TripName",
+        "TripDistance":"TripDistance",
+        "TripType":"TripType",
+        "TripStart":"TripStart",
+        "TripEnd":"TripEnd",
+        "TripStatus":"TripStatus",
+        "TripImage":"TripImage",
+        "TripDescription":"TripDescription",
+        "Trip Notes": "Trip Notes",
+
+        "Route Coordintates":"Route Coordinates",
+        "Route Conditions":"Route Conditions",
+        "Route Notes":"Route Notes",
+        "Route Warnings":"Route Warnings"
+        
+    }
+    ]
+}

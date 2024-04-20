@@ -1,0 +1,41 @@
+{
+    "SuperUsers":
+    [
+        {"SuperUserID":"Id",
+        "Password":"Password",
+        "Name":"Name",
+        "Email":"Email",
+        "Phone":"Phone",
+        "Role":"Role"
+    }
+    ],
+    "Users":
+    [
+        {"UserID":"Id",
+        "Password":"Password",
+        "Name":"Name",
+        "Email":"Email",
+        "Phone":"Phone",
+        "Role":"Role"
+    }
+    ],
+    "Drivers":
+    [
+        {
+            "DriverID":"Id",
+            "Password":"Password",
+            "Name":"Name",
+            "Email":"Email",
+            "Phone":"Phone",
+            
+            "Role":"Role",
+            "Assigned Asset":"Assigned Asset",
+            "license Code":"Licnse Code",
+            "license Number":"License Number",
+            "license Expiry":"License Expiry",
+            "license Status":"License Status",
+            "license Type":"License Type",
+            "Certification":"Certification"
+    }
+    ]
+}

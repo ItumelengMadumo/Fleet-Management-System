@@ -1,0 +1,53 @@
+{
+    "Asset Info":
+    [
+        {
+            "id":1,
+            "name":"Asset 1",
+            "type":"Asset Type 1",
+            "description":"Asset Description 1",
+            "location":"Asset Location 1",
+            "status":"Asset Status 1",
+
+            "created_at":"2020-01-01 00:00:00",
+            "updated_at":"2020-01-01 00:00:00",
+            "Assigned to":"Asset Assigned to 1",
+            "Assigned by":"Asset Assigned by 1",
+            "Assigned date":"Asset Assigned date 1",
+            
+            "Current Mileage":"Current Mileage",
+            "Service Interval":"Asset Service Interval 1",
+            "Service Date":"Asset Service Date 1",
+            "Service Due Date":"Asset Service Due Date 1",
+            "Service/repair Provider":"Asset Service/repair Provider",
+            "Asset Condition":"Asset Condition", 
+
+            "Asset Location":"Asset Location",
+            "Asset Speed":"Asset Speed"
+
+           
+        }
+    ],
+    "Asset History":
+    [
+        {
+            "Last trip":"Last Trip Description",
+            "Last trip date":"Last trip date",
+            "Last Destination":"Last Destination",
+            "Last Departure time":"Last Departure time",
+            "Last Expected Return date":"Last Expected Return date"
+        }
+    ],
+
+
+    "Asset Future":
+    [
+        {
+            "Next trip":"Trip Description",
+            "Next trip date":"Next trip date",
+            "Destination":"Destination",
+            "Departure time":"Departure time",
+            "Expected Return date":"Expected Return date"
+        }
+    ]
+}
